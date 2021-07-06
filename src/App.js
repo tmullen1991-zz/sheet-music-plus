@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <div className="contnet-center">
         <Staff />
+
       </div>
     </div>
   );
