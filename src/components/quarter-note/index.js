@@ -3,7 +3,15 @@ import styles from "./styles.css";
 
 class Quarter extends React.Component {
   render() {
-    return <div className={styles.container}></div>;
+    return (
+      <div>
+        <svg>
+          <circle
+            cx="12" cy="12" r="12"
+          />
+        </svg>
+      </div>
+    );
   }
 }
 

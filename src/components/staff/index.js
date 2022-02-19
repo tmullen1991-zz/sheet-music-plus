@@ -5,19 +5,19 @@ class Staff extends React.Component {
   render() {
     return (
       <div className={styles.container}>
-        <svg>
+        <svg className = "staff">
           <rect />
         </svg>
-        <svg>
+        <svg className = "staff">
           <rect />
         </svg>
-        <svg>
+        <svg className = "staff">
           <rect />
         </svg>
-        <svg>
+        <svg className="staff">
           <rect />
         </svg>
-        <svg>
+        <svg className = "staff">
           <rect />
         </svg>
       </div>
